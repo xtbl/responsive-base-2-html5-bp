@@ -1,0 +1,1 @@
+$('.main p.message').text('You need to upgrade your browser.');
